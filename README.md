@@ -53,7 +53,7 @@
   <script>
     const video = document.getElementById('video');
     const loading = document.getElementById('loading');
-const src = "https://shlsakamai4.akamaized.net/hlsorigin/vsin_hd_fm_2200/chunklist.m3u8?stream=gulfstream_mbr&cust=TVG&user=&t=1746023076&h=8193f766abd2e6add6d86a8e2bdcd46b&type=live";
+const src = "https://5.trstream01.xyz/canal3/stream.m3u8";
 
     function showLoading() {
       loading.style.display = 'block';
